@@ -1,3 +1,2 @@
-# Embedded_Systems_Diploma
+# Embedded_Systems
 
-## All Embedded Projects will be here made by / Mahmoud Eldwakhly
